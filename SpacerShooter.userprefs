@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpaceShooter/ShipPlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SpaceShooter/ShipPlayerController.cs" Line="74" Column="1" />
+      <File FileName="Assets/Scripts/SpaceShooter/DestroyByBoundary.cs" Line="7" Column="39" />
+      <File FileName="Assets/Scripts/SpaceShooter/DestroyByContact.cs" Line="48" Column="97" />
+      <File FileName="Assets/Scripts/SpaceShooter/GameController.cs" Line="136" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
